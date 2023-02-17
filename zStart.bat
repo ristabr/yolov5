@@ -1,0 +1,1 @@
+python train.py --data ../datasets/labels3/labels3.yaml --weights yolov5n.pt --img 640 --epochs 1 --name labels3
